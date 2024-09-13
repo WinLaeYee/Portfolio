@@ -26,7 +26,7 @@ const recommendationCard = [
   },
   {
     id: 3,
-    name: "Mrs Thandar Lin",
+    name: "Ms Thandar Lin",
     image: "images/thandar.jpg",
     designation: "Reactjs Developer at ITVisionHub",
     view: "I highly recommend Win for web development positions. Their expertise in ReactJS and Node.js, combined with their professionalism and dedication, make them an invaluable asset to any team.",
