@@ -14,7 +14,7 @@ const Footer = () => {
           </div>
           <div className="flex items-center">
             <a
-              href="https://www.linkedin.com/in/win-lae-yee-2040972b4/"
+              href="https://www.linkedin.com/in/win-lae-yee-9b594b204/"
               target="_blank"
               rel="noreferrer"
             >

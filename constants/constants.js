@@ -58,6 +58,6 @@ export const CONTACTS = {
 };
 export const SOCIAL_LINKS = {
   GITHUB: "https://github.com/WinLaeYee",
-  LINKEDIN: "http://linkedin.com/in/win-lae-yee-2040972b4",
+  LINKEDIN: "https://www.linkedin.com/in/win-lae-yee-9b594b204/",
   PORTFOLIO: "https://portfolio-wly.vercel.app/",
 };
