@@ -3,7 +3,7 @@ const recommendationCard = [
     id: 0,
     name: "Mr. Kyaw Swar Htet",
     image: "images/ksh.jpg",
-    designation: "Senior Full Stack Developer at Finclutech Co.Ltd.",
+    designation: "Senior Full Stack Developer at FINCLUTECH LTD-FZCO (Dubai)",
     view: "Hey everyone! I wanted to take a moment to recommend Win for any React.js opportunities. I had the pleasure of working with her on multiple projects where she showcased a strong understanding of React.js and Next.js concepts and delivered high-quality code. She consistently demonstrated a willingness to learn and grow, and her enthusiasm for tackling new challenges was contagious. Osama is a reliable and dedicated team member who would be a great asset to any React.js team. Highly recommended! 👍! 🌟",
     linkednURL: "http://linkedin.com/in/mr-kyaw-swar-htet-975b73221",
   },
@@ -11,8 +11,7 @@ const recommendationCard = [
     id: 1,
     name: "Mr Ye Moe Lwin",
     image: "images/yml.jfif",
-    designation:
-      "Full Stack Developer | Nodejs Developer | Nestjs Developer",
+    designation: "Full Stack Developer | Nodejs Developer | Nestjs Developer",
     view: "I had the privilege of working alongside Win on multiple university projects, and I must say, her talent and work ethic truly stood out. Recently, we were both part of the dynamic team at ITVisionHub, where Win's professionalism and attention to detail shone brightly. I wholeheartedly endorse Win for any opportunity that calls for a highly skilled and dedicated individual.",
     linkednURL: "http://linkedin.com/in/ye-moe-lwin-7589392a7",
   },
